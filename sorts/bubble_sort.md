@@ -1,6 +1,6 @@
 # Bubble sort
 ## Basics
-- Description: Works by comparing each element to the one next to it in the list and swapping them if necessary, it is a comparison sort.
+- Description: Works by comparing each element to the one next to it in the list and swapping them if necessary thus it is a comparison sort.
 - Worst-case performance: $O(n^2)$
 - [Wikepedia](https://en.wikipedia.org/wiki/Bubble_sort)
 
