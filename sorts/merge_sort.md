@@ -1,6 +1,6 @@
 # Merge sort
 ## Basics
-- Description: A divide-and-conquer algorithm, it is a comparison algorithm
+- Description: A divide-and-conquer algorithm, it is a comparison algorithm.
 - Worst-case performance: $O(n \log(n))$
 - [Wikepedia](https://en.wikipedia.org/wiki/Merge_sort)
 
